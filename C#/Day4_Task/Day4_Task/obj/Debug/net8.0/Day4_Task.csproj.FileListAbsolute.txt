@@ -1,0 +1,14 @@
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\bin\Debug\net8.0\Day4_Task.exe
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\bin\Debug\net8.0\Day4_Task.deps.json
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\bin\Debug\net8.0\Day4_Task.runtimeconfig.json
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\bin\Debug\net8.0\Day4_Task.dll
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\bin\Debug\net8.0\Day4_Task.pdb
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\Day4_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\Day4_Task.AssemblyInfoInputs.cache
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\Day4_Task.AssemblyInfo.cs
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\Day4_Task.csproj.CoreCompileInputs.cache
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\Day4_Task.dll
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\refint\Day4_Task.dll
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\Day4_Task.pdb
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\Day4_Task.genruntimeconfig.cache
+D:\Abdelaleam\visual studio\csharp\ITI\Day4_Task\Day4_Task\obj\Debug\net8.0\ref\Day4_Task.dll
