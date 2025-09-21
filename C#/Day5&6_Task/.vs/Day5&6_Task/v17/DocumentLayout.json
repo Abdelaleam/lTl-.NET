@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdelaleam\\visual studio\\csharp\\ITI\\Day5\u00266_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFF8CA4-B39F-4AA3-9ED0-177C2F495581}|Day5\u00266_Task\\Day5\u00266_Task.csproj|d:\\abdelaleam\\visual studio\\csharp\\iti\\day5\u00266_task\\day5\u00266_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFF8CA4-B39F-4AA3-9ED0-177C2F495581}|Day5\u00266_Task\\Day5\u00266_Task.csproj|solutionrelative:day5\u00266_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\visual studio\\csharp\\ITI\\Day5\u00266_Task\\Day5\u00266_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Day5\u00266_Task\\Program.cs",
+              "ToolTip": "D:\\Abdelaleam\\visual studio\\csharp\\ITI\\Day5\u00266_Task\\Day5\u00266_Task\\Program.cs",
+              "RelativeToolTip": "Day5\u00266_Task\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwIYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T13:10:14.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
