@@ -1,0 +1,15 @@
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\bin\Debug\net8.0\Day1_Task.exe
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\bin\Debug\net8.0\Day1_Task.deps.json
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\bin\Debug\net8.0\Day1_Task.runtimeconfig.json
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\bin\Debug\net8.0\Day1_Task.dll
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\bin\Debug\net8.0\Day1_Task.pdb
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.AssemblyInfoInputs.cache
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.AssemblyInfo.cs
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.csproj.CoreCompileInputs.cache
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.sourcelink.json
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.dll
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\refint\Day1_Task.dll
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.pdb
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\Day1_Task.genruntimeconfig.cache
+D:\Abdelaleam\the .NET Summer Training program at Ain Shams University\Linq\Day1_Task\Day1_Task\obj\Debug\net8.0\ref\Day1_Task.dll
