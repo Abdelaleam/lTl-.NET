@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdelaleam\\Come back\\Day2_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\models\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\models\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|d:\\abdelaleam\\come back\\day2_task\\day2_task\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0485596-7F8D-4A88-9101-29A9902E452D}|Day2_Task\\Day2_Task.csproj|solutionrelative:day2_task\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form2.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Form2.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form2.cs",
+              "RelativeToolTip": "Day2_Task\\Form2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:16:03.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form2.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Form2.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form2.cs [Design]",
+              "RelativeToolTip": "Day2_Task\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:15:25.55Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form1.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Form1.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form1.cs",
+              "RelativeToolTip": "Day2_Task\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvzYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:51:18.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Day2_Task\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:06:31.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Program.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Program.cs",
+              "RelativeToolTip": "Day2_Task\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:04:14.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form1.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Form1.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Form1.cs [Design]",
+              "RelativeToolTip": "Day2_Task\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:36:20.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Screening.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Models\\Screening.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Models\\Screening.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Models\\Screening.cs",
+              "RelativeToolTip": "Day2_Task\\Models\\Screening.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:54:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Day2_Task\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:06:55.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Day2_Task\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:56:38.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Models\\Ticket.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Models\\Ticket.cs",
+              "RelativeToolTip": "Day2_Task\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:55:41.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Day2_Task\\Models\\Movie.cs",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\Models\\Movie.cs",
+              "RelativeToolTip": "Day2_Task\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:54:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Day2_Task\\appsettings.json",
+              "ToolTip": "D:\\Abdelaleam\\Come back\\Day2_Task\\Day2_Task\\appsettings.json",
+              "RelativeToolTip": "Day2_Task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T12:49:46.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
